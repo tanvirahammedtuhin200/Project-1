@@ -1,0 +1,58 @@
+<style>
+   h1{
+    color: green;
+    font-size: xx-large;
+    font-weight: 900;
+    font-style: oblique;
+   }
+    img{
+       height: inherit;
+       width: 300px;
+
+
+    }
+
+    body{
+        background-color: rgb(232, 202, 239);
+        text-align: justify;
+        text-shadow: 20cap;
+        
+    }
+
+    p{
+        align-self: center;
+    }
+
+    #t{
+
+        color: rgb(52, 12, 254);
+        background-color: beige;
+        height: auto;
+        width: auto;
+        
+    }
+    
+    .h{
+        color: black;
+        background-color: rgb(249, 0, 0);
+        blur
+        height: auto;
+        width: auto;
+    }
+
+    .a{
+        color: rgb(249, 183, 4);
+        background-color: white;
+        text-shadow: 20;
+        height: auto;
+        width: auto;
+        border: 5px solid rgb(255, 119, 0);
+        border-radius: 10px;
+        margin: 5px 10px;
+        padding: 25px;
+        width: 30%;
+        float: left;
+    }
+
+
+</style>
